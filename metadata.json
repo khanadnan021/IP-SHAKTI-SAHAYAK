@@ -1,0 +1,6 @@
+{
+  "name": "Intel-Ayu",
+  "description": "AI-powered Ayurvedic IP and regulatory compliance navigator for patentability evaluations, TKDL prior-art checks, NBA Form III compliance, and statutory filing cost estimations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

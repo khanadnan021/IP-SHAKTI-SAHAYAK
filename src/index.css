@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Newsreader", Georgia, Cambria, serif;
+  --font-sans: "Plus Jakarta Sans", system-ui, -apple-system, sans-serif;
+  --color-editorial-bg: #FDFCF6;
+  --color-editorial-aside: #FAF7ED;
+  --color-editorial-primary: #2D4F1E;
+  --color-editorial-accent: #B8860B;
+  --color-editorial-border: #DED9C4;
+  --color-editorial-quote: #FFF9E5;
+}
+
+body {
+  background-color: #FDFCF6;
+  color: #1A1A1A;
+  font-family: var(--font-serif);
+}
